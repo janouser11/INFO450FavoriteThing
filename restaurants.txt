@@ -1,0 +1,5 @@
+Bobs Burger|Burgers|Richmond|5
+Pizza Hut|Chinese|China|2
+Shafer|Poop|VCU|1
+Red Lobster|Pizza|USA|5
+/Users/alexjanousek/github/Cplusplus/cmake-build-debug/restaurants.txt
